@@ -9,7 +9,7 @@ http://luakit.org
 Install Luakit
 --------------
 
-ManualInstall[1]
+[Manual Install][1]
 
 	Luakit is in most Distro's Repositorys
 	If its not in yours Follow the Manual Install
