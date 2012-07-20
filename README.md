@@ -9,7 +9,7 @@ http://luakit.org
 Install Luakit
 --------------
 
-Manual Install[1]
+ManualInstall[1]
 
 	Luakit is in most Distro's Repositorys
 	If its not in yours Follow the Manual Install
@@ -19,10 +19,12 @@ Using these Configs
 -------------------
 
 `Step1`
+	
 	To Use these Config for luakit simply clone this repository.
 
 
 `Step2`
+	
 	# cd Luakit-Configs 
 	and then copy the contents to ~/.config/luakit/
 	# cp -r * ~/.config/luakit/
