@@ -1,0 +1,1 @@
+plugins.plugins_to_load = { "adblock", "adblock.chrome", "uaswitch", }
